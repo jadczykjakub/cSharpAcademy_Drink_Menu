@@ -1,8 +1,7 @@
 
 # Drink Menu
 
-C# drink menu. 
-Get familiar with sending 
+C# drink menu console app using external API.  
 
 # Given Requirements
 - You were hired by restaurant to create a solution for their drinks menu.
